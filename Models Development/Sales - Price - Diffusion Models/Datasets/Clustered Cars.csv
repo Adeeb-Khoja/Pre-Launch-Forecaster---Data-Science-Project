@@ -1,0 +1,206 @@
+,Model,Make,cluster
+0,giulia,alfa-romero,2
+1,stelvio,alfa-romero,2
+2,Quadrifoglio,alfa-romero,2
+3,100 ls,audi,2
+4,100ls,audi,2
+5,fox,audi,2
+6,100ls,audi,2
+7,5000,audi,2
+8,4000,audi,2
+9,5000s (diesel),audi,2
+10,320i,bmw,2
+11,320i,bmw,2
+12,x1,bmw,2
+13,x3,bmw,2
+14,z4,bmw,2
+15,x4,bmw,1
+16,x5,bmw,1
+17,x3,bmw,1
+18,impala,chevrolet,0
+19,monte carlo,chevrolet,0
+20,vega 2300,chevrolet,0
+21,rampage,dodge,0
+22,challenger se,dodge,0
+23,d200,dodge,0
+24,monaco (sw),dodge,0
+25,colt hardtop,dodge,0
+26,colt (sw),dodge,0
+27,coronet custom,dodge,0
+28,dart custom,dodge,0
+29,coronet custom (sw),dodge,2
+30,civic,honda,0
+31,civic cvcc,honda,0
+32,civic,honda,0
+33,accord cvcc,honda,0
+34,civic cvcc,honda,0
+35,accord lx,honda,0
+36,civic 1500 gl,honda,0
+37,accord,honda,0
+38,civic 1300,honda,0
+39,prelude,honda,0
+40,accord,honda,0
+41,civic,honda,2
+42,civic (auto),honda,0
+43,MU-X,isuzu,0
+44,D-Max ,isuzu,0
+45,D-Max V-Cross,isuzu,0
+46,D-Max ,isuzu,0
+47,xj,jaguar,1
+48,xf,jaguar,1
+49,xk,jaguar,1
+50,rx3,mazda,0
+51,glc deluxe,mazda,0
+52,rx2 coupe,mazda,0
+53,rx-4,mazda,0
+54,glc deluxe,mazda,0
+55,626,mazda,0
+56,glc,mazda,0
+57,rx-7 gs,mazda,2
+58,glc 4,mazda,2
+59,626,mazda,0
+60,glc custom l,mazda,0
+61,glc custom,mazda,0
+62,rx-4,mazda,0
+63,glc deluxe,mazda,0
+64,626,mazda,0
+65,glc,mazda,2
+66,rx-7 gs,mazda,2
+67,electra 225 custom,buick,2
+68,century luxus (sw),buick,1
+69,century,buick,1
+70,skyhawk,buick,1
+71,opel isuzu deluxe,buick,1
+72,skylark,buick,1
+73,century special,buick,1
+74,regal sport coupe (turbo),buick,1
+75,cougar,mercury,2
+76,mirage,mitsubishi,0
+77,lancer,mitsubishi,0
+78,outlander,mitsubishi,0
+79,g4,mitsubishi,0
+80,mirage g4,mitsubishi,0
+81,g4,mitsubishi,0
+82,outlander,mitsubishi,0
+83,g4,mitsubishi,2
+84,mirage g4,mitsubishi,2
+85,montero,mitsubishi,0
+86,pajero,mitsubishi,0
+87,outlander,mitsubishi,0
+88,mirage g4,mitsubishi,0
+89,versa,Nissan,0
+90,gt-r,Nissan,0
+91,rogue,Nissan,0
+92,latio,Nissan,0
+93,titan,Nissan,0
+94,leaf,Nissan,0
+95,juke,Nissan,0
+96,latio,Nissan,0
+97,note,Nissan,0
+98,clipper,Nissan,0
+99,rogue,Nissan,0
+100,nv200,Nissan,0
+101,dayz,Nissan,2
+102,fuga,Nissan,2
+103,otti,Nissan,2
+104,teana,Nissan,2
+105,kicks,Nissan,2
+106,clipper,Nissan,2
+107,504,peugeot,0
+108,304,peugeot,2
+109,504 (sw),peugeot,0
+110,504,peugeot,2
+111,504,peugeot,2
+112,604sl,peugeot,2
+113,504,peugeot,2
+114,505s turbo diesel,peugeot,2
+115,504,peugeot,2
+116,504,peugeot,2
+117,604sl,peugeot,2
+118,fury iii,plymouth,0
+119,cricket,plymouth,0
+120,fury iii,plymouth,0
+121,satellite custom (sw),plymouth,0
+122,fury gran sedan,plymouth,0
+123,valiant,plymouth,0
+124,duster,plymouth,2
+125,macan,porsche,2
+126,panamera,porsche,1
+127,cayenne,porsche,1
+128,boxter,porsche,1
+129,cayenne,porsche,1
+130,12tl,renault,0
+131,5 gtl,renault,0
+132,99e,saab,0
+133,99le,saab,0
+134,99le,saab,2
+135,99gle,saab,2
+136,99gle,saab,2
+137,99e,saab,2
+138,,subaru,0
+139,dl,subaru,0
+140,dl,subaru,0
+141,,subaru,0
+142,brz,subaru,0
+143,baja,subaru,0
+144,r1,subaru,0
+145,r2,subaru,0
+146,trezia,subaru,0
+147,tribeca,subaru,0
+148,dl,subaru,0
+149,dl,subaru,0
+150,corona mark ii,toyota,0
+151,corona,toyota,0
+152,corolla 1200,toyota,0
+153,corona hardtop,toyota,0
+154,corolla 1600 (sw),toyota,0
+155,carina,toyota,0
+156,mark ii,toyota,0
+157,corolla 1200,toyota,0
+158,corona,toyota,0
+159,corolla,toyota,0
+160,corona,toyota,0
+161,corolla,toyota,0
+162,mark ii,toyota,0
+163,corolla liftback,toyota,0
+164,corona,toyota,0
+165,celica gt liftback,toyota,0
+166,corolla tercel,toyota,0
+167,corona liftback,toyota,0
+168,corolla,toyota,0
+169,starlet,toyota,0
+170,tercel,toyota,0
+171,corolla,toyota,0
+172,cressida,toyota,2
+173,corolla,toyota,0
+174,celica gt,toyota,0
+175,corona,toyota,0
+176,corolla,toyota,0
+177,mark ii,toyota,0
+178,corolla liftback,toyota,2
+179,corona,toyota,2
+180,starlet,toyota,2
+181,tercel,toyota,2
+182,rabbit,volkswagen,0
+183,1131 deluxe sedan,volkswagen,0
+184,model 111,volkswagen,0
+185,type 3,volkswagen,0
+186,411 (sw),volkswagen,0
+187,super beetle,volkswagen,0
+188,dasher,volkswagen,0
+189,dasher,volkswagen,0
+190,rabbit,volkswagen,0
+191,rabbit,volkswagen,2
+192,rabbit custom,volkswagen,2
+193,dasher,volkswagen,0
+194,145e (sw),volvo,2
+195,144ea,volvo,2
+196,244dl,volvo,2
+197,245,volvo,2
+198,264gl,volvo,2
+199,diesel,volvo,2
+200,145e (sw),volvo,2
+201,144ea,volvo,2
+202,244dl,volvo,2
+203,246,volvo,2
+204,264gl,volvo,2

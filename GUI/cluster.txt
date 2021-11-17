@@ -1,0 +1,1 @@
+The category of this product is a classification using a classifier model where it fits this product according to its features and estimated price to a cluster of products sharing similar data with a 100% accuracy. The category shows where this product will compete with other products of the same category. Thus, a target market can be established.

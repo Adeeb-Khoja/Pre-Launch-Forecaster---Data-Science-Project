@@ -1,0 +1,18 @@
+Dictionary
+enginetype : [{'dohc': 0, 'dohcv': 1, 'l': 2, 'ohc': 3, 'ohcf': 4, 'ohcv': 5, 'rotor': 6},
+fueltype {'diesel': 0, 'gas': 1},
+ aspitation {'std': 0, 'turbo': 1},
+ carbody {'convertible': 0, 'hardtop': 1, 'hatchback': 2, 'sedan': 3, 'wagon': 4},
+ cylindernumber {'eight': 0,
+  'five': 1,
+  'four': 2,
+  'six': 3,
+  'three': 4,
+  'twelve': 5,
+  'two': 6},
+ drivewheel {'4wd': 0, 'fwd': 1, 'rwd': 2}]
+    
+    Classificattion Cluster Dictionary:
+        0 : Cheap Cars 
+        1 :Top Notch Cars
+        2 : Standard Cars

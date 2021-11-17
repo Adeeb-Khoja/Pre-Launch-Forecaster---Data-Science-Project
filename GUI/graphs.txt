@@ -1,0 +1,1 @@
+These graphs are a result from the diffusion model which estimates the demand on this product over the next few years and how the adopters increase or decrease with respect to the market potential at a certain year. From these two graphs an insight can be taken to figure out when this product might reach it sales peak point and when it might decline and lose its demand.

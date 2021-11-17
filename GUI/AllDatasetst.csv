@@ -1,0 +1,2 @@
+﻿price,horsepower,carwidth,carbody,enginetype,Ratings,Model,Year,Engine_HP,Engine_Cylinders,Driven_Wheels,Number_of_Doors,Market_Category,Vehicle_Size,highway_MPG,city_mpg,Vehicle_Style,Sentiment,fueltype,aspiration,cylindernumber,drivewheel,wheelbase,curbweight,enginesize,boreratio,highwaympg,carlength,cluster,Transimission_type
+13495,111,64.1,hardtop,dohc,3.75,X6,2015,241,4,rear wheel drive,4,Luxury,Compact,33,22,4dr SUV,Negative,gas,turbo,eight,fwd,88.6,2548,130,3.47,27,168.8,2,MANUAL
